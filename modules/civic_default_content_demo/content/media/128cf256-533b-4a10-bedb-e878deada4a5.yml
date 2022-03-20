@@ -1,12 +1,15 @@
 _meta:
   version: '1.0'
   entity_type: media
-  uuid: 0f3ade52-b39b-4241-94b4-fc3a5c11f426
+  uuid: 128cf256-533b-4a10-bedb-e878deada4a5
   bundle: civic_icon
   default_langcode: en
   depends:
-    5f754d6e-86e3-459d-b47e-1beed04bee8b: file
+    4c54f9b2-ae04-442f-b830-4cbeed050d75: file
 default:
+  revision_user:
+    -
+      target_id: 1
   status:
     -
       value: true
@@ -15,10 +18,10 @@ default:
       target_id: 1
   name:
     -
-      value: icons8-instagram-24.svg
+      value: 'Facebook Icon'
   created:
     -
-      value: 1635056868
+      value: 1647509740
   revision_translation_affected:
     -
       value: true
@@ -29,6 +32,6 @@ default:
       pathauto: 0
   field_c_m_icon:
     -
-      entity: 5f754d6e-86e3-459d-b47e-1beed04bee8b
-      display: false
+      entity: 4c54f9b2-ae04-442f-b830-4cbeed050d75
+      display: true
       description: ''
