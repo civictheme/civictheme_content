@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\civic_default_content;
+namespace Drupal\civictheme_content;
 
 use Drupal\Core\Url;
 use Drupal\menu_link_content\Entity\MenuLinkContent;
@@ -13,7 +13,7 @@ use Drush\Log\LogLevel;
  *
  * Helper class for manipulating content.
  *
- * @package Drupal\civic_default_content
+ * @package Drupal\civictheme_content
  */
 class Helper {
 
@@ -197,7 +197,7 @@ class Helper {
    *   Node title to set as a homepage.
    */
   public static function setHomepageFromNode($title) {
-    $node = static::loadNodeByTitle($title, 'civic_page');
+    $node = static::loadNodeByTitle($title, 'civictheme_page');
 
     if (!$node) {
       throw new \Exception('Unable to find homepage node.');

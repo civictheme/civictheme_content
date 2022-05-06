@@ -1,6 +1,6 @@
 {
-    "name": "salsadigitalauorg/civic_default_content",
-    "description": "Default content for Civic theme.",
+    "name": "salsadigitalauorg/civictheme-content",
+    "description": "Default content for CivicTheme theme.",
     "type": "drupal-module",
     "license": "proprietary",
     "require": {
