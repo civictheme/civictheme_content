@@ -1,7 +1,7 @@
 _meta:
   version: '1.0'
   entity_type: block_content
-  uuid: 9770b254-70c4-4f73-af00-d737895efde4
+  uuid: b7f36176-620f-4178-aadd-9b448c610986
   bundle: civictheme_mobile_navigation
   default_langcode: en
 default:
@@ -17,15 +17,15 @@ default:
   revision_translation_affected:
     -
       value: true
-  field_c_b_bottom_menu:
+  field_c_b_bottom:
     -
-      target_id: civictheme_demo_secondary_navigation
+      target_id: civictheme_secondary_navigation
   field_c_b_theme:
     -
       value: light
-  field_c_b_top_menu:
+  field_c_b_top:
     -
-      target_id: civictheme_demo_primary_navigation
+      target_id: civictheme_primary_navigation
   field_c_b_trigger_text:
     -
       value: Menu
