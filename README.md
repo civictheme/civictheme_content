@@ -2,7 +2,7 @@
 
 ----
 
-Version: `1.2.0`
+Version: `1.2.2`
 
 ## Other resources
 
