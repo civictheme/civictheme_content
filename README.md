@@ -2,7 +2,17 @@
 
 ----
 
-Version: `1.2.6`
+Version: `1.3.0`
+
+## Installation
+
+    composer require salsadigitalauorg/civictheme_content
+
+    drush en civictheme_content # Content from 'default' profile
+    # or
+    CIVICTHEME_CONTENT_PROFILE=corporate drush en civictheme_content # Content from 'corporate' profile
+    # or
+    CIVICTHEME_CONTENT_PROFILE=none drush en civictheme_content # No content
 
 ## Other resources
 
