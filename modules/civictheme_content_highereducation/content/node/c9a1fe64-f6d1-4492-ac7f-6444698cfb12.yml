@@ -251,7 +251,7 @@ default:
                 _meta:
                   version: '1.0'
                   entity_type: paragraph
-                  uuid: dd1.4.0-83fa-4fcc-b16c-60b20ec89c59
+                  uuid: dd1.4.1-83fa-4fcc-b16c-60b20ec89c59
                   bundle: civictheme_accordion_panel
                   default_langcode: en
                 default:
