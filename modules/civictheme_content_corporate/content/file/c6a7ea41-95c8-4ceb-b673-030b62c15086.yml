@@ -1,7 +1,7 @@
 _meta:
   version: '1.0'
   entity_type: file
-  uuid: e9b4a5d5-ef8d-4cdb-bb87-834f46c7ca0f
+  uuid: c6a7ea41-95c8-4ceb-b673-030b62c15086
   default_langcode: en
 default:
   uid:
@@ -9,19 +9,19 @@ default:
       target_id: 1
   filename:
     -
-      value: corporate_banner_background.png
+      value: generic.png
   uri:
     -
-      value: 'public://corporate_banner_background.png'
+      value: 'public://media-icons/generic/generic.png'
   filemime:
     -
       value: image/png
   filesize:
     -
-      value: 788015
+      value: 3900
   status:
     -
       value: true
   created:
     -
-      value: 1633976389
+      value: 1710755880
